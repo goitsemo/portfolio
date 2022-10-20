@@ -29,3 +29,8 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# Other
+/conf/settings.py
+/conf/__pycache__
+/blog/__pycache__
