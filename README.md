@@ -1,3 +1,3 @@
 # README
 
-simple web / blog / landing page entries
+simple python/Django blog post
